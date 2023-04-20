@@ -29,6 +29,8 @@ pdf(dataBuffer).then(function(data) {
 
 	// number of pages
 	console.log(data.numpages);
+	// pages array
+	console.log(data.pages);
 	// number of rendered pages
 	console.log(data.numrender);
 	// PDF info

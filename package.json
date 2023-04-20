@@ -47,5 +47,12 @@
     "license": "MIT",
     "engines": {
         "node": ">=6.8.1"
-    }
+    },
+    "contributors": [
+        {
+            "name": "Jay Simons",
+            "email": "jay@designly.biz",
+            "url": "https://jay.designly.biz"
+        }
+    ]
 }
